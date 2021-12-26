@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 3dfb3c39153c8324684e8809b6ac514f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1533909394052034002
+    second: Gift_0
+  - first:
+      213: 4398399578313179397
+    second: Gift_1
+  - first:
+      213: -6042871209615967158
+    second: Gift_2
+  - first:
+      213: -4603214018109331639
+    second: Gift_3
+  - first:
+      213: 3170545825376349607
+    second: Gift_4
+  - first:
+      213: 4989842697912517705
+    second: Gift_5
+  - first:
+      213: -8879945618710110612
+    second: Gift_6
+  - first:
+      213: 4150717776391978705
+    second: Gift_7
+  - first:
+      213: 3857191752055641202
+    second: Gift_8
+  - first:
+      213: -6169578455212971605
+    second: Gift_9
+  - first:
+      213: 1825547225876074200
+    second: Gift_10
+  - first:
+      213: 1882625920227706543
+    second: Gift_11
+  - first:
+      213: -3123932235247918264
+    second: Gift_12
+  - first:
+      213: -5819289447337279861
+    second: Gift_13
+  - first:
+      213: -6147675573601409879
+    second: Gift_14
+  - first:
+      213: -7468268461082848777
+    second: Gift_15
+  - first:
+      213: -4096008941226116641
+    second: Gift_16
+  - first:
+      213: 2704022127866173923
+    second: Gift_17
+  - first:
+      213: 5895746978028104907
+    second: Gift_18
+  - first:
+      213: -1417610772170571865
+    second: Gift_19
+  - first:
+      213: -3676882572562282191
+    second: Gift_20
+  - first:
+      213: -5681894787869914486
+    second: Gift_21
+  - first:
+      213: -1488038039897907736
+    second: Gift_22
+  - first:
+      213: -4366312715187432893
+    second: Gift_23
+  - first:
+      213: -957419420725087957
+    second: Gift_24
+  - first:
+      213: 7744233757789732468
+    second: Gift_25
+  - first:
+      213: 3205871820741841837
+    second: Gift_26
+  - first:
+      213: -3725459921498431200
+    second: Gift_27
+  - first:
+      213: -540918328313553653
+    second: Gift_28
+  - first:
+      213: -2473165536672155917
+    second: Gift_29
+  - first:
+      213: 7040358379759536450
+    second: Gift_30
+  - first:
+      213: 4036458080647334714
+    second: Gift_31
+  - first:
+      213: 2987215507716247759
+    second: Gift_32
+  - first:
+      213: -3993780813120749819
+    second: Gift_33
+  - first:
+      213: -8730303100143025358
+    second: Gift_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gift_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2593
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2b16877a894510800000000000000
+      internalID: 1533909394052034002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1529
+        width: 1227
+        height: 1409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c59ddc114a0d30800000000000000
+      internalID: 4398399578313179397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_2
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1589
+        width: 1120
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb76fb6a8632ca0800000000000000
+      internalID: -6042871209615967158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_3
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1658
+        width: 1000
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ae794d391e10c0800000000000000
+      internalID: -4603214018109331639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_4
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1711
+        width: 909
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada7a141aa000c20800000000000000
+      internalID: 3170545825376349607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_5
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 1642
+        width: 1008
+        height: 1168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94407261f7b7f3540800000000000000
+      internalID: 4989842697912517705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_6
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 1574
+        width: 1121
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e5ffbf18814c480800000000000000
+      internalID: -8879945618710110612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_7
+      rect:
+        serializedVersion: 2
+        x: 6786
+        y: 1506
+        width: 1234
+        height: 1434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3eb083df4a9930800000000000000
+      internalID: 4150717776391978705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_8
+      rect:
+        serializedVersion: 2
+        x: 8058
+        y: 1582
+        width: 1114
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274d7d3567f778530800000000000000
+      internalID: 3857191752055641202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_9
+      rect:
+        serializedVersion: 2
+        x: 9233
+        y: 1680
+        width: 1015
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a0233511416aa0800000000000000
+      internalID: -6169578455212971605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_10
+      rect:
+        serializedVersion: 2
+        x: 10294
+        y: 1885
+        width: 818
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0b0f9785a55910800000000000000
+      internalID: 1825547225876074200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_11
+      rect:
+        serializedVersion: 2
+        x: 11173
+        y: 1779
+        width: 893
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa68d14cc4e602a10800000000000000
+      internalID: 1882625920227706543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_12
+      rect:
+        serializedVersion: 2
+        x: 12128
+        y: 2591
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e7afee2095a4d0800000000000000
+      internalID: -3123932235247918264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_13
+      rect:
+        serializedVersion: 2
+        x: 12142
+        y: 1733
+        width: 993
+        height: 1138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e384e541bbd3fa0800000000000000
+      internalID: -5819289447337279861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_14
+      rect:
+        serializedVersion: 2
+        x: 13227
+        y: 1667
+        width: 1097
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4642933a11faaa0800000000000000
+      internalID: -6147675573601409879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_15
+      rect:
+        serializedVersion: 2
+        x: 14371
+        y: 2592
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f157e937616b5890800000000000000
+      internalID: -7468268461082848777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_16
+      rect:
+        serializedVersion: 2
+        x: 14387
+        y: 1733
+        width: 991
+        height: 1138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b46dc19d0827c0800000000000000
+      internalID: -4096008941226116641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_17
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2561
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9524c7ccd968520800000000000000
+      internalID: 2704022127866173923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_18
+      rect:
+        serializedVersion: 2
+        x: 8037
+        y: 2546
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca2f6b3a6e1d150800000000000000
+      internalID: 5895746978028104907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_19
+      rect:
+        serializedVersion: 2
+        x: 11158
+        y: 2547
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af71077382a35ce0800000000000000
+      internalID: -1417610772170571865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_20
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2523
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c99df7c619fcc0800000000000000
+      internalID: -3676882572562282191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_21
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 2500
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8acedd5bcad521b0800000000000000
+      internalID: -5681894787869914486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_22
+      rect:
+        serializedVersion: 2
+        x: 10234
+        y: 2433
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eddd93694d695be0800000000000000
+      internalID: -1488038039897907736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_23
+      rect:
+        serializedVersion: 2
+        x: 9158
+        y: 2364
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425bf028bdb763c0800000000000000
+      internalID: -4366312715187432893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1120
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21fe960c1096b2f0800000000000000
+      internalID: -957419420725087957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 350
+        width: 894
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e35ae629b097b60800000000000000
+      internalID: 7744233757789732468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_26
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 452
+        width: 819
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da390ce7f6b8d7c20800000000000000
+      internalID: 3205871820741841837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_27
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 421
+        width: 712
+        height: 819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a12290f18c4cc0800000000000000
+      internalID: -3725459921498431200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_28
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 383
+        width: 788
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5f5475a54e78f0800000000000000
+      internalID: -540918328313553653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_29
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 360
+        width: 839
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6faeb3c0d8dadd0800000000000000
+      internalID: -2473165536672155917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_30
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 323
+        width: 909
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249030d15a064b160800000000000000
+      internalID: 7040358379759536450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_31
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 256
+        width: 984
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4dbffc31640830800000000000000
+      internalID: 4036458080647334714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_32
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 209
+        width: 1079
+        height: 1282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc017f46da8b47920800000000000000
+      internalID: 2987215507716247759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_33
+      rect:
+        serializedVersion: 2
+        x: 7778
+        y: 80
+        width: 1151
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fba2ba28d3398c0800000000000000
+      internalID: -3993780813120749819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gift_34
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1006
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233cb76e59bb7d680800000000000000
+      internalID: -8730303100143025358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
